@@ -1,0 +1,19 @@
+
+.btn-secondary {
+    border: none;
+    color: #f1f1f1;
+    background-color: #9fa5aa;
+}
+
+td,
+th {
+    font-family: 'Alexandria',
+        sans-serif;
+    font-family: 'Kanit',
+        sans-serif;
+    border: 1px solid #dddddd;
+    padding: 8px;
+}
+.center{
+    text-align: center;
+}
